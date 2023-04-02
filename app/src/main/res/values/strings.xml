@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SplashActivity</string>
+    <string name="new_here_text">Novo por aqui?</string>
+    <string name="login_button_text">login</string>
+    <string name="password_hint">password</string>
+    <string name="email_hint">email</string>
+    <string name="logo_description" />
+    <string name="icon_description" />
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="ok">OK</string>
+    <string name="logado">Logado</string>
+    <string name="voltar">Voltar</string>
+    <string name="senha">Senha:</string>
+    <string name="email">Email:</string>
+    <string name="new_here">Faça seu cadastro</string>
+    <string name="fundatec">Fundatec</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Novo por aqui?</string>
+    <string name="name">login</string>
+    <string name="insert_your_password">password</string>
+</resources>
